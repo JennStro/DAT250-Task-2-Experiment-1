@@ -31,5 +31,6 @@ public class Main {
         em.getTransaction().commit();
 
         em.close();
+
     }
 }
